@@ -1,6 +1,6 @@
-# SuperSheet Kid AI 🚀
+# SuperSheet AI 🚀
 
-SuperSheet Kid AI is an intelligent homework generation platform designed for parents and educators to create personalized, high-engagement worksheets for children. By leveraging the power of Google Gemini AI, it transforms standard curriculum into exciting missions themed around a child's specific interests, such as Minecraft, Fortnite, or Dinosaurs.
+SuperSheet AI is an intelligent homework generation platform designed for parents and educators to create personalized, high-engagement worksheets for children. By leveraging the power of Google Gemini AI, it transforms standard curriculum into exciting missions themed around a child's specific interests, such as Minecraft, Fortnite, or Dinosaurs.
 
 ## ✨ Features
 
@@ -29,8 +29,8 @@ You will need a Google Gemini API Key. You can obtain one for free (within certa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/lalomorales22/supersheet-kid-ai.git
-   cd supersheet-kid-ai
+   git clone https://github.com/lalomorales22/supersheet-ai.git
+   cd supersheet-ai
    ```
 
 2. This project uses a modern "no-build" approach via ES modules and import maps. You don't need `npm install` for basic usage!
